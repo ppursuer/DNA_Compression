@@ -6,7 +6,7 @@ import java.util.LinkedList;
  * @date 2024/7/12
  */
 
-public class contains {
+public class DNA {
 //    static String[] TABOOSTRING = {"AAA", "ACT", "CATA"};
     static String[] TABOOSTRING = {"AC", "TA"};  // 禁忌串
     static StringBuilder TEXT = new StringBuilder("ACTAACATAAAGG");  // DNA串
